@@ -1,10 +1,10 @@
 # Hi, I'm Monika RK👋
 
 ## About Me
-💻 Full Stack Developer  
 🏆 Practiced 100+ LeetCode DSA questions  
 🌐 Skilled in: C++, Python, Web Development, SQL  
 📚 Always learning and building real-world projects
+💻 Full Stack Developer  
 
 ## Projects
 - [Hostel Management System](https://github.com/monikark-del/frontend-project)
